@@ -33,7 +33,7 @@ class Board extends Component {
   static defaultProps = {
     nRows : 5,
     nCol : 5,
-    prob : 0
+    prob : 0.25
   }
   constructor(props) {
     super(props);
