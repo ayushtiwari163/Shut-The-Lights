@@ -79,8 +79,10 @@ class Board extends Component {
     
 
     function flipCell(y, x) {
+     // console.log(y +","+x);
     
       if (x >= 0 && x < ncols && y >= 0 && y < nrows) {
+        //console.log(y +","+x);
 
         board[y][x] = !board[y][x];
 
@@ -90,11 +92,11 @@ class Board extends Component {
     // TODO: flip this cell and the cells around it
      
       //board[y][x] = !board[y][x];
-      flipCell(x,y);
+      flipCell(y,x);
       flipCell(y+1,x);
-     flipCell(y-1,x);
-     flipCell(y,x+1);
-     flipCell(y,x-1);
+       flipCell(y-1,x);
+       flipCell(y,x+1);
+       flipCell(y,x-1);
      //flipCell(10,20);
     // win when every cell is turned off
   
