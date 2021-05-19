@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Shut-The-Lights/static/css/main.51521760.chunk.css",
-    "main.js": "/Shut-The-Lights/static/js/main.a495a561.chunk.js",
-    "main.js.map": "/Shut-The-Lights/static/js/main.a495a561.chunk.js.map",
+    "main.js": "/Shut-The-Lights/static/js/main.069481a5.chunk.js",
+    "main.js.map": "/Shut-The-Lights/static/js/main.069481a5.chunk.js.map",
     "runtime-main.js": "/Shut-The-Lights/static/js/runtime-main.32c12818.js",
     "runtime-main.js.map": "/Shut-The-Lights/static/js/runtime-main.32c12818.js.map",
     "static/js/2.bb02f9eb.chunk.js": "/Shut-The-Lights/static/js/2.bb02f9eb.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.32c12818.js",
     "static/js/2.bb02f9eb.chunk.js",
     "static/css/main.51521760.chunk.css",
-    "static/js/main.a495a561.chunk.js"
+    "static/js/main.069481a5.chunk.js"
   ]
 }
